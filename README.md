@@ -3,7 +3,7 @@
 
 ## About Me
 - 🌱 I’m currently learning Rust and Backend Systems.
-- 💬 Ask me about Laravel, Backend Development, NodeJS.
+- 💬 Ask me about Backend Development!
 - 🎓 Information Technology Student (Senior Year).
 
 ## 💻 Tech Stack:
